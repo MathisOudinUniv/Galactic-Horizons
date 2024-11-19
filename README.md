@@ -1,3 +1,3 @@
 # Galactic-Horizons
-We are a new corp that can take you to stars.
+We are a new corp that can take you to stars.  
 toto
