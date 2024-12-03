@@ -26,3 +26,11 @@ h2 {
     top: -120px;
     left: 10px;
 }
+
+.blocMenu {
+    position: relative;
+    width: 1500px;
+    height: 400px;
+    top: -100px;
+    left: 10px;
+}
