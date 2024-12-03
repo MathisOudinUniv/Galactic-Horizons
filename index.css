@@ -19,6 +19,10 @@ h2 {
     font-size: 700%;
 }
 
+a:link {
+    text-decoration: none;
+}
+
 .blocTitre {
     position: relative;
     width: 1500px;
