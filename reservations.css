@@ -4,11 +4,13 @@ html, body {
 }
 
 body {
-    background-image: url("imageFond.jpg");
+    background-image: url("Vaisseau.jpg");
     background-size: 100%;
     background-attachment: fixed; 
+    background-color: black;
     font-family: Verdana, sans-serif; 
     font-size: 100%;
+    background-repeat: no-repeat;
 }
 
 h2 {
@@ -17,16 +19,8 @@ h2 {
 }
 
 h3 {
-    color:white;
+    color:#8f8f85;
     font-size: 600%;
-}
-
-h4 {
-    font-size: 300%;
-}
-
-h5 {
-    font-size: 100%;
 }
 
 table, td , th{
@@ -76,52 +70,10 @@ a:visited {
     left: 25%;
 }
 
-.blocTerre {
+.blocTableau {
     position: relative;
-    background-color: hsla(284, 95%, 17%, 0.74);
     width: 1500px;
     height: 400px;
-    top: -1050px;
-    left: 5%;
-}
-
-.blocTerreImage {
-    position: relative;
-    width: 750px;
-    height: 400px;
-    top: -1425px;
-    left: 6%;
-}
-
-.blocTerreTexte {
-    position: relative;
-    width: 750px;
-    height: 400px;
-    top: -1875px;
-    left: 46%;
-}
-
-.blocLune {
-    position: relative;
-    background-color: hsla(284, 95%, 17%, 0.74);
-    width: 1500px;
-    height: 400px;
-    top: -1750px;
-    left: 5%;
-}
-
-.blocLuneImage {
-    position: relative;
-    width: 750px;
-    height: 400px;
-    top: -2125px;
-    left: 6%;
-}
-
-.blocLuneTexte {
-    position: relative;
-    width: 750px;
-    height: 400px;
-    top: -2575px;
-    left: 46%;
+    top: -1100px;
+    left: 15%;
 }
